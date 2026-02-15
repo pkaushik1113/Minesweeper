@@ -37,18 +37,6 @@ import javafx.scene.Scene;
 
 
 
-/*
-Name:       Prisha Kaushik
-Date:       03/27/2025
-Period:     7
-
-Is this lab fully working?  Yes, added animation and effects
-
-Create a HW Quiz question that any student who completed this lab would reasonably be expected
-to complete within 5 minutes.
-How do you link a model, view, and controller to create a cohesive program?
-*/
-
 
 public class P7_Kaushik_Prisha_MinesweeperGUI extends Application{
 
