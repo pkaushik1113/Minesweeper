@@ -15,17 +15,6 @@ import javafx.scene.Scene;
 
 
 
-/*
-Name:       Prisha Kaushik
-Date:       03/10/2025
-Period:     7
-
-Is this lab fully working?  Yes
-
-Create a HW Quiz question that any student who completed this lab would reasonably be expected
-to complete within 5 minutes.
-How do you use a drag feature to change the tile type?
-*/
 
 
 public class P7_Kaushik_Prisha_MinesweeperGUITemplate extends Application{
